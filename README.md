@@ -90,6 +90,3 @@ src/
     └── queue/              # BullMQ worker & job definitions
 ```
 
-## License
-
-MIT
